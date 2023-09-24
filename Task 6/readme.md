@@ -1,4 +1,4 @@
-![Task 6 Data augmentation](https://github.com/kalpesh-git0/Kaiburr-tasks/assets/78799833/4443cd5c-471b-41cc-a9a9-8a798fd6e92a)# Task 6 - Text Classification of consumer complaint dataset
+# Task 6 - Text Classification of consumer complaint dataset
 
 1. Explanatory Data Analysis and Feature Engineering
 2. Text Pre-Processing
